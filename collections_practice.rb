@@ -35,6 +35,6 @@ def sum_array(num)
   (..).inject { |sum, n| sum + n }            
 end
 
-def add_s
-  [1,2].each_with_index.collect{|element, index| }
+def add_s(array)
+  [].each_with_index.collect{|element, index| }
 end
