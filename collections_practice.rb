@@ -1,5 +1,6 @@
-def sort_array_asc(num)
-  
+def sort_array_asc(array)
+  array.sort
+end
 
 
 
