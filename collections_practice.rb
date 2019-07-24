@@ -32,7 +32,7 @@ end
 
 
 def sum_array(num)
-  (11..134).inject { |sum, n| sum + n }            
+  (..).inject { |sum, n| sum + n }            
 end
 
 def add_s
