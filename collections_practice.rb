@@ -6,7 +6,7 @@ end
 
 def sort_array_desc(num)
 array.each do |num|
-  
+  puts num
 end
 
 def sort_array_char_count(array)
