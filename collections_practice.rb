@@ -14,6 +14,8 @@ def sort_array_char_count(array)
   end
 end
 
+
+
 def reverse_array(num)
   num.reverse
 end
