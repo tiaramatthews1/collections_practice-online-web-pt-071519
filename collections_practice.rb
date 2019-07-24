@@ -5,25 +5,11 @@ def sort_array_asc(num)
 end
 
 def sort_array_desc(num)
-#array.sort do |a, b|
-  #if a == b
-   # 0
- # elsif a < b
-   # -1
- # elsif a > b
-   # 1
-  #end
+
 end
 
 def sort_array_char_count(array)
- array.sort do |a, b|
-  if a == b
-    0
-  elsif a < b
-    -1
-  elsif a > b
-    1
-  end
+ 
 end
 
 def swap_elements
