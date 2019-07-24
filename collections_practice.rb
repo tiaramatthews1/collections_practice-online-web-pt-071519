@@ -32,7 +32,7 @@ end
 
 
 def sum_array
-  
+  (5..10).inject { |sum, n| sum + n }            
 end
 
 def add_s
