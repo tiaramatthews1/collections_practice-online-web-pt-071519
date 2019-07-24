@@ -16,8 +16,7 @@ array.sort do |a, b|
 end
 
 def sort_array_char_count(array)
- array.each do |num|
-  puts num
+ 
 end
 
 def swap_elements
