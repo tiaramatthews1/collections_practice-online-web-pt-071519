@@ -5,12 +5,12 @@ def sort_array_asc(num)
 end
 
 def sort_array_desc(num)
-array.each do |num|
-  puts num
+
 end
 
 def sort_array_char_count(array)
- 
+ array.each do |num|
+  puts num
 end
 
 def swap_elements
